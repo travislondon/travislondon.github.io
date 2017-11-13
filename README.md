@@ -6,8 +6,6 @@ Here you will find further information about myself.  This includes everything, 
 
 ### Professional Life
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/travislondon/travislondon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Contact
 
 [travis.london@gmail.com](mailto:travis.london@gmail.com)  
