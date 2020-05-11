@@ -4,7 +4,7 @@ Here you will find further information about myself.  This includes everything, 
 
 ### Personal Life
 
-Growing up I always dreamed of being a Doctor or a Lawyer.  I believe this was a dream of my family rather than mine.  This was also based entirely on money.  As I got older those dreams dissipated as I realized the money was not worth the stress.  The next big dream my family had for me was to get into the computer industry as they knew it was the next big thing.  I agreed with this idea which led me to my professional life.    
+Growing up I always dreamed of being a Doctor or a Lawyer.  I believe this was a dream of my family rather than mine.  This was also based entirely on money.  As I got older those dreams dissipated as I realized the money was not worth the stress.  The next big dream my family had for me was to get into the computer industry as they knew it was going to be the future.  I agreed with this idea which led me to my professional life.    
 
 ### Professional Life
 
