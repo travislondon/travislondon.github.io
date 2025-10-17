@@ -1,23 +1,35 @@
-## Hello and welcome!
+---
+theme: jekyll-theme-architect
+title: Travis London
+---
 
-Here you will find further information about myself. This includes everything, at least that I would like to share :).
+## Travis London
 
-### Personal Life
+**Chief Architect | Systems Designer | Technical Leader**
 
-Like many as a child I had aspirations to become something other than a software engineer. I thought becoming a lawyer would be a great idea! As I grew older it became clear such a role was not desirable. Duringg my youth I had access to older hardware and was introduced to very early versions of RedHat. After a lot of broken installations and still enjoying the learning process of setting up linux servers, I knew the direction to go was towards IT.
+I build systems that stay reliable as they grow complex.  
+Over two decades in software have taken me from early Linux servers to leading architecture for distributed, real-time platforms.  
+My focus is on reproducible processes, verifiable deployments, and frameworks that let teams scale without losing clarity or traceability.
 
-Fast forward years later and such a career has allowed me to be present for every moment of my children's lives. Not only have I been able to spend a lot of time with my family, this career path has enabled plenty of time for personal interests. I enjoy golfing and fishing. The work life balance has provided me with enough time for both.
+I’m self-taught, grounded in model-driven and domain-driven design, and drawn to the structure behind sustainable engineering organizations.  
+Recent work has centered on autonomous SaaS frameworks, governance protocols, and systems that emphasize auditability over opacity.
 
-### Professional Life
+I believe architecture is less about control and more about stewardship—creating the conditions for engineers and products to grow safely.
 
-This part of my life began earlier than the computer industry as I have always acted professionally. Whether it was while washing dishes or moving rock and trimming trees. Though what is considered professional by most for me started with the computer industry. I completed high school a year early to study the system adminstration side of computers. After a little over a year I began my career with the same group of people that I have been with for a large portion of my career.
+**Focus areas:**
 
-The start of it all came when a small company contacted me to be their sole system administrator. This was great for me as a start. It was unnerving for the interview, but once work began I realized how great the people were and how much I could learn. After solving a lot of issues that had been present when joining (ancient servers and networks, etc.), I decided to make a change and gave my notice. After a few months for reasons other than my own, I contacted the company asking if my position was still available. The answer was "No, but I would like you to come work for us as a software engineer". While a suprise to me I accepted in order to learn more. This led to a new era of computers for me. Years later I cannot imagine going back.
+- Systems architecture and governance
+- Distributed and event-driven design
+- Cloud infrastructure and security (AWS, CI/CD, container scanning)
+- Model-driven and reproducible development practices
+- Technical mentorship and cross-team coordination
 
-My career has placed me in the postion to provide employment to others as well as mentor junior engineers into strong contributors. It has given me the opportunity to work with people all over the world. I have been part of the first in companies, and played most of the roles. I have worked for a small company, a large corporation, a start-up and now as an independent contractor. I have enjoyed all of these roles. I was able to travel around the country as well as out of country a couple of times. I have met many great people from top to bottom.
+Outside of work, I keep things simple: family, golf, and the occasional project that reminds me how much there still is to learn.
 
-### Find out more or contact me:
+### Find out more or contact me
 
 [LinkedIn](https://linkedin.com/in/londontravis)  
 [GitHub](https://github.com/travislondon)  
+[FMAY](https://fmaysoftware.com)  
+[Resume (PDF)](resume/Travis_London.pdf)  
 [travis.london@gmail.com](mailto:travis.london@gmail.com)
