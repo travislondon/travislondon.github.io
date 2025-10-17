@@ -1,8 +1,3 @@
----
-theme: jekyll-theme-architect
-title: Travis London
----
-
 ## Travis London
 
 **Chief Architect | Systems Designer | Technical Leader**
