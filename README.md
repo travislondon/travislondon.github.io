@@ -1,6 +1,6 @@
 ## Travis London
 
-**Chief Architect | Systems Designer | Technical Leader**
+### Chief Architect | Systems Designer | Technical Leader
 
 I build systems that stay reliable as they grow complex.  
 Over two decades in software have taken me from early Linux servers to leading architecture for distributed, real-time platforms.  
